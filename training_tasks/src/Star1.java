@@ -13,6 +13,7 @@ public class Star1 {
                 {
                     System.out.print(" ");
                 }
+//                preeti
 
             }
             System.out.println(" ");
